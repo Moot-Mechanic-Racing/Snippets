@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/Moot-Mechanic-Racing/.github/blob/111a93675c959e9055aecfe7746be12dc947b640/profile/logo.png)
 
 # Code Snippets Repository
 
